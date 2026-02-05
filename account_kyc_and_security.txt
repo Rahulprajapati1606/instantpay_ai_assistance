@@ -1,0 +1,68 @@
+InstantPay
+
+Fast payments, built on trust.
+
+Account, KYC & Security
+1. Account Creation
+
+Creating an InstantPay account is a simple and quick process. Users can sign up using their mobile number and link their bank account to start using digital payment services.
+
+Once the account is set up, users can access InstantPay’s features such as UPI payments, bill payments, and other supported services. Basic account access is available immediately after registration.
+
+2. What is KYC and Why is it Required?
+
+KYC (Know Your Customer) is a standard process used to verify the identity of users. InstantPay requires KYC to ensure secure transactions and to prevent misuse of the platform.
+
+Completing KYC helps:
+
+Enhance account security
+
+Reduce fraud and unauthorized activity
+
+Enable access to additional services and higher usage limits
+
+KYC requirements may vary depending on the services used.
+
+3. KYC Process
+
+InstantPay offers a simple and user-friendly KYC process within the app.
+
+The KYC process typically includes:
+
+Providing basic personal details
+
+Submitting valid identity information
+
+Completing verification through secure digital methods
+
+Users are guided step-by-step, and support is available if assistance is needed.
+
+4. Account and Data Security
+
+InstantPay prioritizes the protection of user data and financial information. The platform follows industry-standard security practices to ensure safe and reliable usage.
+
+Security measures include:
+
+Secure authentication for account access
+
+Encryption of sensitive information
+
+Monitoring systems to detect suspicious activity
+
+InstantPay does not store sensitive banking credentials and works with trusted partners to maintain a secure environment.
+
+5. User Safety and Best Practices
+
+Users play an important role in maintaining account security. InstantPay encourages users to follow basic safety practices.
+
+Recommended best practices include:
+
+Keeping login details confidential
+
+Avoiding sharing OTPs or verification codes
+
+Using official app channels for support
+
+Reporting suspicious activity immediately
+
+Following these practices helps ensure a safe and smooth experience on the platform.

@@ -1,0 +1,76 @@
+InstantPay
+
+Fast payments, built on trust.
+
+Refund & Safety Policy
+1. Is InstantPay Safe?
+
+Yes, InstantPay is designed to be a secure and reliable digital payments platform. User safety and transaction integrity are core priorities of the company. InstantPay follows industry-standard security practices to protect user data and ensure that payments are processed safely through authorized banking channels.
+
+Key safety measures include:
+
+Secure UPI authentication through user-approved bank processes
+
+Encryption of sensitive transaction-related information
+
+Real-time transaction status updates for transparency
+
+Monitoring systems to identify unusual or suspicious activity
+
+InstantPay does not store users’ banking credentials and works in coordination with partner banks to maintain a secure payment environment.
+
+2. Refund Process and Time Taken to Initiate Refunds
+
+Refunds on InstantPay are typically initiated when a transaction fails, is reversed by the bank, or is identified as unsuccessful.
+
+Refund process:
+
+Failed or reversed transactions are automatically identified by the system
+
+Once confirmed, the refund is initiated to the original payment source
+
+Users are notified about the refund initiation status within the app
+
+Refund timelines:
+
+Most refunds are initiated within 24 hours of transaction failure
+
+The refunded amount is usually credited within 2–5 working days
+
+In rare cases involving bank-side delays, refunds may take up to 7 working days
+
+Users are not required to manually request refunds for standard failed transactions.
+
+3. No False or Unauthorized Refunds
+
+InstantPay follows strict verification processes to ensure that false, duplicate, or unauthorized refunds are not possible.
+
+Refunds are initiated only after system or bank confirmation
+
+Each refund is linked to a unique transaction reference ID
+
+Manual refunds are processed only after proper validation
+
+These measures help maintain fairness, prevent misuse, and protect both users and merchants from incorrect refund claims.
+
+4. Reporting Fraudulent Transactions or Payments Made by Mistake
+
+If a user identifies a fraudulent transaction or has made a payment by mistake, they should report the issue immediately through InstantPay’s support channels.
+
+How to report an issue:
+
+Open the InstantPay app and navigate to the “Help & Support” section
+
+Select the relevant transaction and choose the appropriate complaint category
+
+Provide accurate details, including transaction ID and description
+
+Once reported:
+
+The issue is reviewed by the support team
+
+Transactions suspected of fraud are investigated in coordination with banking partners
+
+Users are guided through the next steps based on the outcome of the review
+
+Early reporting increases the chances of timely resolution.
