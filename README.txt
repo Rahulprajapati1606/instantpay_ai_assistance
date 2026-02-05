@@ -5,7 +5,7 @@ AI-Powered Customer Support Assistant for InstantPay
 This project is a mini knowledge-base assistant that indexes internal documents and answers user queries with grounded, source-backed responses. Built using Streamlit, FAISS, and LangChain Community, the app provides a simple UI to ask questions about InstantPay’s services, policies, and careers.
 
 Demo / Live URL
-[Insert your deployed app URL here]
+[https://instantpayaiassistance-ezagum8vbepmypo2qhiwob.streamlit.app]
 
 Project Structure
 
@@ -25,9 +25,7 @@ Technical Overview
 
 1.Document Ingestion
 
-Text documents are stored in a folder and loaded dynamically.
-
-Each document’s filename is stored as metadata to show the source in responses.
+Each document is in the instantpay_ai_assistant folder and in code each file's name has been specified so that assistant will load only required files.
 
 2.Document Chunking
 
@@ -62,7 +60,7 @@ Styled for readability and engagement.
 
 Clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/instantpay_ai_assistance.git
+git clone https://github.com/Rahulprajapati1606/instantpay_ai_assistance.git
 
 Create a virtual environment:
 
@@ -90,13 +88,16 @@ Streamlit chosen for quick, interactive UI and easy deployment.
 
 FAISS + FakeEmbeddings used to avoid API key issues and simplify local testing.
 
+Real Api Key is paid ad uses credits and therefore to show that it is working model FakeEmbeddings were used which finds the answer 
+but because no thinking process it cannot mold the answers into logical form.
+
 Document chunking ensures relevant sections are retrieved efficiently.
 
 Source citation included in responses to provide credibility.
 
 App structure is modular and easily extendable for future LLM integration.
 
-Limitations & Future Improvements
+7.Limitations & Future Improvements
 
 Currently uses FakeEmbeddings – responses are based on simple similarity, not semantic understanding.
 
@@ -108,6 +109,7 @@ Could add file upload to allow dynamic document ingestion.
 
 Contact / Collaboration
 
-GitHub username: [Your GitHub Username]
+GitHub username: [Rahulprajapati1606]
+
 
 Collaborator access granted to: 7A7cell
